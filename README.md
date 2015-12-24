@@ -1,2 +1,0 @@
-# coolWeather
-#enjoy the software
